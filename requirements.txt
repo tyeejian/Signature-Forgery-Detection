@@ -1,5 +1,5 @@
-tensorflow
+tensorflow<2.11
 pandas
 tk
 scikit-image
-scipy
+opencv-python
