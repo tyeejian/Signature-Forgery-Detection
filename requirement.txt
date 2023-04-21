@@ -1,5 +1,0 @@
-tensorflow
-pandas
-tk
-scikit-image
-scipy
