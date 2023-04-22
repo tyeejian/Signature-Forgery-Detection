@@ -21,8 +21,9 @@ Obtained from Kaggle.[link](https://www.kaggle.com/datasets/robinreni/signature-
 - Yee Jian
 - Huai Zhi
 # References
+- https://github.com/Harshitb1/AxisBankAiChallenge
 - https://www.kaggle.com/datasets/robinreni/signature-verification-dataset
 - https://medium.com/swlh/signet-detecting-signature-similarity-using-machine-learning-deep-learning-is-this-the-end-of-1a6bdc76b04b
 - https://www.google.com/url?q=https://www.analyticsvidhya.com/blog/2021/06/image-classification-using-convolutional-neural-network-with-python/&sa=D&source=docs&ust=1681562028887982&usg=AOvVaw0EYUYTQ7lXfKma_3KmtH-U
 - https://www.analyticsvidhya.com/blog/2021/06/image-classification-using-convolutional-neural-network-with-python/
-- https://github.com/Harshitb1/AxisBankAiChallenge
+- https://www.channelnewsasia.com/singapore/man-forge-documents-nus-degree-get-jobs-38-companies-890881

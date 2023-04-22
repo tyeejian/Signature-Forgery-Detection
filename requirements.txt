@@ -1,5 +1,6 @@
 tensorflow<2.11
 pandas
+tqdm
 tk
 scikit-image
 opencv-python
