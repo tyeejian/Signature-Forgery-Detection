@@ -9,7 +9,7 @@ Download the required package/libraries by running
 # Dataset
 Obtained from Kaggle. [link](https://www.kaggle.com/datasets/robinreni/signature-verification-dataset)
 # Model Used
-- Logistic Regression
+- Logistic Regression from sklearn
 - Convolutional Neural Network (CNN)
 # Conclusion
 - MSE & SSIM are simple tools which can be used to identify differences in the images
@@ -38,3 +38,5 @@ Obtained from Kaggle. [link](https://www.kaggle.com/datasets/robinreni/signature
 - https://www.google.com/url?q=https://www.analyticsvidhya.com/blog/2021/06/image-classification-using-convolutional-neural-network-with-python/&sa=D&source=docs&ust=1681562028887982&usg=AOvVaw0EYUYTQ7lXfKma_3KmtH-U
 - https://www.analyticsvidhya.com/blog/2021/06/image-classification-using-convolutional-neural-network-with-python/
 - https://www.channelnewsasia.com/singapore/man-forge-documents-nus-degree-get-jobs-38-companies-890881
+- https://seaborn.pydata.org/
+- https://www.tensorflow.org/
